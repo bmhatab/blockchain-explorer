@@ -1,0 +1,45 @@
+{
+    "version": "1",
+    "name": "NFTX",
+    "domain": "nftx.io",
+    "token": "NFTX",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x5fad0e4cc9925365b9b0bbec9e0c3536c0b1a5c7"
+        },
+        {
+            "address": "0x688c3e4658b5367da06fd629e41879beab538e37"
+        },
+        {
+            "address": "0xfd8a76dc204e461db5da4f38687adc9cc5ae4a86"
+        },
+        {
+            "address": "0xbe86f647b167567525ccaafcd6f881f1ee558216"
+        },
+        {
+            "address": "0x4086e98cce041d286112d021612fd894cfed94d5"
+        },
+        {
+            "address": "0x0fc584529a2aefa997697fafacba5831fac0c22d"
+        },
+        {
+            "address": "0x35fb4026dcf19f8ca37dcca4d2d68a549548750c"
+        },
+        {
+            "address": "0x3e135c3e981fae3383a5ae0d323860a34cfab893"
+        },
+        {
+            "address": "0x7a5e0b4069709cf4d02423b8cafdc608f4436791"
+        },
+        {
+            "address": "0x51d660ba5c218b2cf33fbaca5e3abb8aeff3543b"
+        },
+        {
+            "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776"
+        }
+    ]
+}
+
+

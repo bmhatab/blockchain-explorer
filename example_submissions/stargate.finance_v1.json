@@ -1,0 +1,39 @@
+{
+    "version": "1",
+    "name": "Stargate Finance",
+    "domain": "stargate.finance",
+    "token": "STG",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x8731d54e9d02c286767d56ac03e8037c07e01e98"
+        },
+        {
+            "address": "0x150f94b44927f078737562f0fcf3c95c01cc2376"
+        },
+        {
+            "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6"
+        },
+        {
+            "address": "0xdf0770df86a8034b3efef0a1bb3c889b8332ff56"
+        },
+        {
+            "address": "0x38ea452219524bb87e18de1c24d3bb59510bd783"
+        },
+        {
+            "address": "0x692953e758c3669290cb1677180c64183cee374e"
+        },
+        {
+            "address": "0x101816545f6bd2b1076434b54383a1e633390a2e"
+        },
+        {
+            "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+        },
+        {
+            "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97"
+        }
+    ]
+}
+
+

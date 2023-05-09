@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "name": "Perpetual Protocol",
+    "domain": "perp.com",
+    "token": "PERP",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+        }
+    ]
+}
+

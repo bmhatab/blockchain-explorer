@@ -1,0 +1,22 @@
+{
+    "version": "1",
+    "name": "NAME",
+    "domain": "domain.com",
+    "token": "TOK",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        },
+        {
+            "address": "0x39755357759ce0d7f32dc8dc45414cca409ae24e"
+        },
+        {
+            "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+        },
+        {
+            "address": "0x5ef30b9986345249bc32d8928b7ee64de9435e39"
+        }
+    ]
+}
